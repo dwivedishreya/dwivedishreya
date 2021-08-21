@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Shreya -aka @dwivedishreya
-- 👀 I’m interested in web development for now
+- - 👀 I’m  keenly interested in web development.
 - 🌱 I’m currently learning everything xD
 - 💞️ I'm here to contribute more to open source projects.
 - Fun facts: I love to sing and paint.
